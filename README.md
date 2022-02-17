@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashshingvi http://yashs.me :)
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, problem solving, making software products
 - 🌱 I’m currently learning web3 tech,....
 - 📫 How to reach me yashshingvi@gmail.com / https://www.linkedin.com/in/yashs98/
 
