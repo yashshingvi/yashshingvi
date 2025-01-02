@@ -1,6 +1,6 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @yashshingvi https://yashshingvi.github.io/ :)
-- 👀 I’m interested in software development, problem solving, making software products
-- 🌱 I’m currently learning web3 tech,....
+- 👀 I’m interested in AI/ML, software development, problem solving, making software products
+- 🌱 I’m currently working on AI Agents....
 - 📫 How to reach me yashshingvi@gmail.com / https://www.linkedin.com/in/yashs98/
 - Skills - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
